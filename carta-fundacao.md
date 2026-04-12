@@ -269,7 +269,25 @@ complementares, sem alteração do presente instrumento.
 ------------------------------------------------------------------------
 
   
-Assinatura dos membros fundadores
+Assinatura da Coordenação Fundadora
+
+</div>
+
+<div class="center">
+
+------------------------------------------------------------------------
+
+  
+Coordenador Fundador
+
+</div>
+
+<div class="center">
+
+------------------------------------------------------------------------
+
+  
+Vice-Coordenador Fundador
 
 </div>
 
@@ -280,6 +298,6 @@ Assinatura dos membros fundadores
 ------------------------------------------------------------------------
 
   
-Assinatura dos membros fundadores
+Assinatura do Núcleo de Coordenadores Fundadores
 
 </div>
