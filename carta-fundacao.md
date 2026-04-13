@@ -301,3 +301,14 @@ Vice-Coordenador Fundador
 Assinatura do Núcleo de Coordenadores Fundadores
 
 </div>
+
+<div class="center">
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+  
+Assinatura dos Membros Fundadores
+
+</div>

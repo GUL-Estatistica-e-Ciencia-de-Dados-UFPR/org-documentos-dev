@@ -56,23 +56,24 @@ Os dados coletados podem incluir:
 
 <div class="privacidade">
 
-nome completo
+Nome completo
 
-endereço de email
+Endereço de email
 
-telefone
+Telefone
 
-vínculo institucional (quando aplicável)
+Vínculo institucional
 
-matrícula (quando necessário para emissão de certificados ou
-reconhecimento de participação pela UFPR)
+Matrícula
 
-outras informações estritamente necessárias ao contexto da atividade
+Outras informações estritamente necessárias ao contexto da atividade
 
 </div>
 
 Nenhum dado será coletado sem um **objetivo específico, explícito e
-legítimo**.
+legítimo** informado explicitamente de maneira prévia ou no momento da
+coleta (Por exemplo, na descrição do formulário de coleta de
+informações).
 
 # Uso dos Dados
 
@@ -81,19 +82,19 @@ grupo, incluindo:
 
 <div class="privacidade">
 
-organização e gestão de atividades
+Organização e gestão de atividades
 
-comunicação com membros e participantes
+Comunicação com membros e participantes
 
-registro histórico e institucional
+Registro histórico e institucional
 
-operação de projetos e iniciativas
+Operação de projetos e iniciativas
 
-inscrição em atividades ou eventos
+Inscrição em atividades ou eventos
 
-adesão a documentos institucionais
+Adesão a documentos institucionais
 
-participação em projetos
+Participação em projetos
 
 </div>
 
@@ -108,9 +109,9 @@ Exceções ocorrem apenas quando:
 
 <div class="privacidade">
 
-houver **obrigação legal**, conforme legislação brasileira
+Houver **obrigação legal**, conforme legislação brasileira
 
-houver **requisição formal de autoridade competente**
+Houver **requisição formal de autoridade competente**
 
 </div>
 
@@ -124,13 +125,13 @@ incluindo:
 
 <div class="privacidade">
 
-uso de plataformas confiáveis
+Uso de plataformas confiáveis
 
-controle de acesso restrito
+Controle de acesso restrito
 
-armazenamento seguro (criptografia quando aplicável)
+Armazenamento seguro
 
-revisão periódica de acessos
+Revisão periódica de acessos
 
 </div>
 
@@ -138,11 +139,11 @@ O grupo compromete-se a reduzir riscos de:
 
 <div class="privacidade">
 
-acesso não autorizado
+Acesso não autorizado
 
-vazamento de dados
+Vazamento de dados
 
-uso indevido
+Uso indevido
 
 </div>
 
@@ -153,11 +154,11 @@ A responsabilidade pelo cumprimento desta política recai sobre a
 
 <div class="privacidade">
 
-garantir a aplicação das diretrizes aqui estabelecidas
+Garantir a aplicação das diretrizes aqui estabelecidas
 
-supervisionar o uso adequado dos dados
+Supervisionar o uso adequado dos dados
 
-responder a solicitações relacionadas à privacidade
+Responder a solicitações relacionadas à privacidade
 
 </div>
 
@@ -167,11 +168,11 @@ Qualquer membro ou participante poderá, a qualquer momento:
 
 <div class="privacidade">
 
-solicitar acesso aos seus dados
+Solicitar acesso aos seus dados
 
-solicitar correção de dados incorretos
+Solicitar correção de dados incorretos
 
-solicitar **remoção completa de seus dados**
+Solicitar **remoção completa de seus dados**
 
 </div>
 
@@ -187,9 +188,9 @@ Quando não forem mais necessários:
 
 <div class="privacidade">
 
-serão removidos, ou
+Serão removidos, ou
 
-anonimizados, quando aplicável
+Anonimizados, quando aplicável
 
 </div>
 
