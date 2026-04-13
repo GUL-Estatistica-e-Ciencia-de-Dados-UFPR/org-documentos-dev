@@ -1,9 +1,9 @@
 %%============================================================================
-%% CÓDIGO DE CONDUTA — Grupo de Usuários Linux em Estatística e Ciência de Dados
-%%                     Universidade Federal do Paraná (UFPR)
+%% POLÍTICA DE PRIVACIDADE — Grupo de Usuários Linux e Software Livre
+%%                              Estatística e Ciência de Dados - UFPR
 %%============================================================================
 %% Documento institucional — versão formal
-%% Compilar com: pdflatex codigo-conduta.tex  (ou xelatex / lualatex)
+%% Compilar com: pdflatex politica-privacidade.tex  (ou xelatex / lualatex)
 %%============================================================================
 
 \documentclass[
@@ -54,10 +54,10 @@
 % Metadados do PDF
 %---------------------------------------------------------------------------
 \hypersetup{
-  pdftitle    = {Código de Conduta — GULECD/UFPR},
+  pdftitle    = {Política de Privacidade — GULECD/UFPR},
   pdfauthor   = {Grupo de Usuários Linux - Estatística e Ciência de Dados - UFPR},
-  pdfsubject  = {Código de Conduta institucional do GULECD},
-  pdfkeywords = {código de conduta, software livre, código aberto, ciência de dados, UFPR},
+  pdfsubject  = {Política de Privacidade institucional do GULECD},
+  pdfkeywords = {política de privacidade, proteção de dados, LGPD, software livre, código aberto, ciência de dados, UFPR},
   colorlinks  = true,
   linkcolor   = gulecdAccent,
   urlcolor    = gulecdAccent,
@@ -116,7 +116,7 @@
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[L]{\small\color{gulecdGray}\textsc{GULECD/UFPR}}
-\fancyhead[R]{\small\color{gulecdGray}\textit{Código de Conduta}}
+\fancyhead[R]{\small\color{gulecdGray}\textit{Política de Privacidade}}
 \fancyfoot[C]{\small\color{gulecdGray}---\ \thepage\ ---}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\headrule}{%
@@ -131,10 +131,10 @@
 }
 
 %---------------------------------------------------------------------------
-% Ambiente personalizado para listas do código de conduta
+% Ambiente personalizado para listas
 %---------------------------------------------------------------------------
-\newlist{conduta}{itemize}{1}
-\setlist[conduta]{
+\newlist{privacidade}{itemize}{1}
+\setlist[privacidade]{
   label      = {\color{gulecdAccent}\textbullet},
   leftmargin = 1.5em,
   itemsep    = 0.3em,
@@ -144,10 +144,9 @@
 %---------------------------------------------------------------------------
 % Informações do documento
 %---------------------------------------------------------------------------
-\title{Código de Conduta\\[0.3em]
+\title{Política de Privacidade\\[0.3em]
   \Large\mdseries\color{gulecdGray}%
   Grupo de Usuários Linux e \textit{Software} Livre\\Estatística e Ciência de Dados - UFPR}
-%\author{Grupo de Usuários Linux e Software Livre\\Curso de Estatística e Ciência de Dados --- UFPR}
 \date{\today}
 
 %============================================================================
@@ -161,117 +160,131 @@
 
 \newpage
 
-%--- Seção 1: Compromisso ---------------------------------------------------
-\section{Compromisso}
+%--- Seção 1: Introdução ----------------------------------------------------
+\section{Introdução}
 
-\lettrine[lines=3, lhang=0.1, nindent=0em, slope=-0.5em]{N}{ós}, enquanto membros, colaboradores e organizadores, comprometemo-nos a 
-garantir um ambiente de convivência acadêmica e técnica aberto, respeitoso e colaborativo. Nosso objetivo é promover uma comunidade onde o 
-aprendizado, a troca de conhecimento e a produção científica ocorram de forma ética, inclusiva e tecnicamente rigorosa.
+\lettrine[lines=3, lhang=0.1, nindent=0em, slope=-0.5em]{E}{sta} Política de Privacidade estabelece as diretrizes para coleta, uso, armazenamento
+ e proteção de dados pessoais no âmbito do GULECD/UFPR.
+O grupo compromete-se a adotar práticas alinhadas aos princípios de privacidade, transparência e minimização de dados, em conformidade com a legislação brasileira aplicável,
+em especial a Lei Geral de Proteção de Dados (LGPD – Lei nº 13.709/2018).
 
-%--- Seção 2: Padrões de Comportamento --------------------------------------
-\section{Padrões de Comportamento}
+%--- Seção 2: Princípios Gerais ---------------------------------------------
+\section{Princípios Gerais}
 
-São considerados comportamentos desejáveis:
+O GULECD/UFPR adota os seguintes princípios no tratamento de dados:
 
-\begin{conduta}
-  \item Uso de linguagem respeitosa, técnica e construtiva
-  \item Abertura à crítica fundamentada e ao debate científico rigoroso
-  \item Compartilhamento de conhecimento, código e recursos de forma colaborativa
-  \item Reconhecimento de contribuições alheias
-  \item Apoio a membros em processo de aprendizado
-  \item Comunicação clara e baseada em evidências
-  \item Participação ativa nas discussões, deliberações e votações do grupo de maneira honesta e aberta
-\end{conduta}
+\begin{privacidade}
+	\item \textbf{Finalidade específica}: dados são coletados apenas para objetivos claramente definidos
+	\item \textbf{Minimização}: coleta-se apenas o mínimo necessário
+	\item \textbf{Transparência}: os participantes devem saber quais dados são coletados e por quê
+	\item \textbf{Segurança}: dados são protegidos com boas práticas técnicas e organizacionais
+	\item \textbf{Não compartilhamento}: dados não são repassados a terceiros, exceto quando exigido por lei
+\end{privacidade}
 
-%--- Seção 3: Comportamentos Inaceitáveis -----------------------------------
-\section{Comportamentos Inaceitáveis}
+%--- Seção 3: Coleta de Dados -----------------------------------------------
+\section{Coleta de Dados}
 
-Não serão tolerados:
+Os dados coletados podem incluir:
 
-\begin{conduta}
-  \item Assédio, intimidação ou discriminação de qualquer natureza
-  \item Ataques pessoais ou desqualificação não técnica
-  \item Linguagem ofensiva, agressiva ou desrespeitosa
-  \item Divulgação indevida de informações pessoais ou sensíveis
-  \item Sabotagem de discussões técnicas ou projetos colaborativos
-  \item Qualquer conduta que comprometa a integridade científica ou ética do grupo
-\end{conduta}
+\begin{privacidade}
+	\item nome completo
+	\item endereço de email
+	\item telefone
+	\item vínculo institucional (quando aplicável)
+	\item matrícula (quando necessário para emissão de certificados ou reconhecimento de participação pela UFPR)
+	\item outras informações estritamente necessárias ao contexto da atividade
+\end{privacidade}
 
-%--- Seção 4: Escopo de Aplicação -------------------------------------------
-\section{Escopo de Aplicação}
+Nenhum dado será coletado sem um \textbf{objetivo específico, explícito e legítimo}.
 
-Este Código de Conduta aplica-se a todos os espaços do grupo, incluindo:
+%--- Seção 4: Uso dos Dados -------------------------------------------------
+\section{Uso dos Dados}
 
-\begin{conduta}
-  \item Grupo de WhatsApp e demais canais digitais
-  \item Repositórios de código e plataformas colaborativas
-  \item Reuniões, eventos, workshops e encontros presenciais
-  \item Interações externas representando o grupo
-\end{conduta}
+Os dados coletados serão utilizados exclusivamente para fins internos do grupo, incluindo:
 
-%--- Seção 5: Responsabilidades da Moderação --------------------------------
-\section{Responsabilidades da Moderação}
+\begin{privacidade}
+	\item organização e gestão de atividades
+	\item comunicação com membros e participantes
+	\item registro histórico e institucional
+	\item operação de projetos e iniciativas
+	\item inscrição em atividades ou eventos
+	\item adesão a documentos institucionais
+	\item participação em projetos
+\end{privacidade}
 
-Os moderadores e coordenadores são responsáveis por:
+Os dados \textbf{não serão utilizados para fins comerciais} ou qualquer finalidade externa ao escopo do grupo.
 
-\begin{conduta}
-  \item Garantir a aplicação deste Código de Conduta
-  \item Avaliar denúncias com imparcialidade e confidencialidade
-  \item Tomar medidas proporcionais às infrações
-  \item Promover um ambiente seguro e produtivo para todos os membros
-\end{conduta}
+%--- Seção 5: Compartilhamento de Dados -------------------------------------
+\section{Compartilhamento de Dados}
 
-%--- Seção 6: Aplicação e Medidas Corretivas --------------------------------
-\section{Aplicação e Medidas Corretivas}
+O GULECD/UFPR não compartilha dados pessoais com terceiros.
 
-Em caso de violação, poderão ser adotadas, conforme a gravidade:
+Exceções ocorrem apenas quando:
 
-\begin{conduta}
-  \item Advertência privada
-  \item Solicitação de retratação
-  \item Restrição temporária de participação
-  \item Remoção do grupo
-  \item Encaminhamento institucional, quando aplicável
-\end{conduta}
+\begin{privacidade}
+	\item houver \textbf{obrigação legal}, conforme legislação brasileira
+	\item houver \textbf{requisição formal de autoridade competente}
+\end{privacidade}
 
-%--- Seção 7: Denúncias -----------------------------------------------------
-\section{Denúncias}
+Fora dessas situações, os dados permanecem sob uso interno exclusivo do grupo.
 
-Situações que violem este Código de Conduta devem ser reportadas aos moderadores ou coordenadores do grupo. 
-Todas as denúncias serão tratadas com seriedade, confidencialidade e diligência.
+%--- Seção 6: Armazenamento e Segurança -------------------------------------
+\section{Armazenamento e Segurança}
 
-%--- Seção 8: Princípios Científicos e Éticos --------------------------------
-\section{Princípios Científicos e Éticos}
+Os dados serão armazenados utilizando as melhores práticas disponíveis, incluindo:
 
-Além das normas de convivência, espera-se que os membros:
+\begin{privacidade}
+	\item uso de plataformas confiáveis
+	\item controle de acesso restrito
+	\item armazenamento seguro (criptografia quando aplicável)
+	\item revisão periódica de acessos
+\end{privacidade}
 
-\begin{conduta}
-  \item Mantenham rigor científico em suas contribuições
-  \item Evitem práticas como plágio, fabricação ou manipulação indevida de dados
-  \item Respeitem normas éticas aplicáveis, incluindo a Lei Geral de Proteção de Dados (LGPD)
-  \item Declarem conflitos de interesse relevantes
-  \item Citem fontes e referências adequadas
-  \item Promovam reprodutibilidade, transparência e o uso de \textit{software livre} e código aberto
-  
-\end{conduta}
+O grupo compromete-se a reduzir riscos de:
 
-%--- Seção 9: Alinhamento com Software Livre --------------------------------
-\section{Alinhamento com Software Livre}
+\begin{privacidade}
+	\item acesso não autorizado
+	\item vazamento de dados
+	\item uso indevido
+\end{privacidade}
 
-Este grupo orienta-se pelos princípios do \textit{software} livre e código aberto, incentivando:
+%--- Seção 7: Responsabilidade ----------------------------------------------
+\section{Responsabilidade}
 
-\begin{conduta}
-  \item Liberdade de uso, estudo, modificação e distribuição de \textit{software}
-  \item Transparência técnica e auditabilidade
-  \item Colaboração descentralizada e meritocrática
-  \item Inclusão e diversidade na participação 
-  \item Respeito às licenças e à propriedade intelectual 
-  \item Privacidade e segurança como prioridades 
-  \item Compartilhamento de conhecimento
-  \item Promoção de software livre e código aberto como pilares de modelos econômicos sustentáveis
-\end{conduta}
+A responsabilidade pelo cumprimento desta política recai sobre a \textbf{Coordenação do GULECD/UFPR}, que deve:
 
-%--- Seção 10: Disposições Finais -------------------------------------------
+\begin{privacidade}
+	\item garantir a aplicação das diretrizes aqui estabelecidas
+	\item supervisionar o uso adequado dos dados
+	\item responder a solicitações relacionadas à privacidade
+\end{privacidade}
+
+%--- Seção 8: Direitos dos Titulares ----------------------------------------
+\section{Direitos dos Titulares}
+
+Qualquer membro ou participante poderá, a qualquer momento:
+
+\begin{privacidade}
+	\item solicitar acesso aos seus dados
+	\item solicitar correção de dados incorretos
+	\item solicitar \textbf{remoção completa de seus dados}
+\end{privacidade}
+
+As solicitações devem ser atendidas em prazo razoável, respeitando limitações operacionais e obrigações legais.
+
+%--- Seção 9: Retenção de Dados ---------------------------------------------
+\section{Retenção de Dados}
+
+Os dados serão mantidos apenas pelo tempo necessário para cumprir suas finalidades.
+
+Quando não forem mais necessários:
+
+\begin{privacidade}
+	\item serão removidos, ou
+	\item anonimizados, quando aplicável
+\end{privacidade}
+
+%--- Seção 10: Atualizações desta Política ----------------------------------
 \section{Atualizações deste Documento}
 
 Este documento deve ser entendido como um instrumento vivo, passível de aprimoramento conforme a evolução do grupo, mudanças operacionais ou alterações legais. 
@@ -289,8 +302,12 @@ Assim, determina-se que:
 	\item As atualizações serão comunicadas de forma transparente aos membros
 \end{conduta}
 
-%--- Espaço para assinaturas ------------------------------------------------
-\vspace{2cm}
+%--- Seção 11: Disposições Finais -------------------------------------------
+\section{Disposições Finais}
+
+O GULECD/UFPR reafirma seu compromisso com a privacidade e proteção de dados, reconhecendo que a confiança dos membros e participantes é fundamental para o funcionamento 
+e crescimento do grupo.
+
 
 %============================================================================
 \end{document}
