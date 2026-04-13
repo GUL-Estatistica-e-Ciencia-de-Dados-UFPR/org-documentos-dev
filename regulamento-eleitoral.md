@@ -249,7 +249,7 @@ A inscrição deve conter:
 Um documento com o Plano de Gestão contendo o nome e número da chapa
 
 Um documento contendo a composição completa incluindo uma mini-biografia
-de cada membro, seu cargo pretendido e link para o Currículo Lattes
+de cada membro e seu cargo pretendido
 
 Um documento declarando conhecimento sobre o conteúdo do Manifesto e
 Código de Conduta do grupo
@@ -524,8 +524,8 @@ durante o mandato e estratégias para crescimento, organização e impacto.
 O documento deverá conter claramente o nome e número da chapa
 
 **Composição - ChapaXX**: Documento contendo a composição completa da
-chapa, incluindo uma mini-biografia de cada membro, seu cargo pretendido
-e link para o Currículo Lattes
+chapa, incluindo uma mini-biografia de cada membro e seu cargo
+pretendido
 
 **Declaração de Conhecimento - ChapaXX**: Documento declarando
 conhecimento sobre o conteúdo do Manifesto, Carta de Fundação e Código

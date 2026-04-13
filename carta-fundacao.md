@@ -21,45 +21,46 @@ title: |
   - [Uso de Infraestrutura](#uso-de-infraestrutura)
   - [Propriedade Intelectual](#propriedade-intelectual)
   - [Membros Fundadores](#membros-fundadores)
-- [Disposição Final](#disposição-final)
+- [Disposições Finais](#disposições-finais)
 
 # Introdução
 
 <span class="lettrine">O</span><span class="smallcaps"> presente</span>
 documento formaliza a criação do Grupo de Usuários Linux e Software
 Livre do curso de Estatística e Ciência de Dados da Universidade Federal
-do Paraná (UFPR), constituído como uma iniciativa acadêmica e técnica
-voltada à promoção do uso de sistemas baseados em Linux, *software*
-livre e práticas abertas no contexto da estatística, ciência de dados e
-computação científica.
+do Paraná (UFPR), constituído como uma iniciativa acadêmica, técnica e
+científica voltada à promoção do uso de sistemas baseados em Linux,
+*software* livre e práticas abertas no contexto da estatística, ciência
+de dados e computação científica.
 
 Este grupo emerge da convergência entre a necessidade contemporânea de
-rigor metodológico, reprodutibilidade científica e autonomia
-tecnológica, e a maturidade do ecossistema de *software* livre como
-infraestrutura essencial para pesquisa, ensino e inovação. Nesse
-sentido, estabelece-se como um espaço de colaboração, formação técnica e
-produção científica, orientado por princípios formais expressos em seu
-Manifesto e regulado por seu Código de Conduta.
+rigor metodológico, reprodutibilidade e autonomia tecnológica, e a
+maturidade do ecossistema de *software* livre como infraestrutura
+essencial para pesquisa, ensino e inovação. Nesse sentido, estabelece-se
+como um espaço de colaboração, formação técnica e produção
+técnico-científica, orientado por princípios formais expressos em seu
+Manifesto e regulado primariamente por seu Código de Conduta.
 
 # Justificativa
 
 A Estatística e Ciência de Dados moderna depende intrinsecamente de
 ambientes computacionais complexos, frequentemente sustentados por
-*software* de código aberto. Sistemas operacionais baseados em Linux
-constituem a espinha dorsal de infraestruturas científicas, incluindo
-computação de alto desempenho, *pipelines* de análise de dados,
-aprendizado de máquina e engenharia de dados.
+*software* livre e de código aberto. Sistemas operacionais baseados em
+Linux (e outros sistemas operacionais com liçencas de *software* livre e
+código aberto) constituem a espinha dorsal de infraestruturas
+científicas, incluindo computação de alto desempenho, *pipelines* de
+análise de dados, aprendizado de máquina e engenharia de dados.
 
 Entretanto, observa-se uma lacuna entre o uso instrumental dessas
 tecnologias e sua compreensão aprofundada, bem como uma dependência
 significativa de ferramentas proprietárias que limitam a auditabilidade,
-a reprodutibilidade e a autonomia de estudantes, professores
+a reprodutibilidade e a autonomia de estudantes, professores,
 pesquisadores e profissionais.
 
 Diante desse cenário, a criação deste grupo justifica-se como um
 mecanismo de capacitação técnica, organização comunitária e promoção de
-práticas científicas alinhadas aos princípios do conhecimento aberto,
-visando formar profissionais capazes de operar, compreender e
+práticas técnico-científicas alinhadas aos princípios do conhecimento
+aberto, visando formar profissionais capazes de operar, compreender e
 desenvolver soluções computacionais robustas, transparentes e eticamente
 fundamentadas.
 
@@ -68,19 +69,21 @@ fundamentadas.
 ## Objetivo Geral
 
 Promover o uso, estudo e desenvolvimento de tecnologias baseadas em
-Linux e *software* livre no âmbito da Estatística e Ciência de Dados,
-fomentando a excelência técnica, a colaboração aberta e a produção
-científica reprodutível.
+Linux, *software* livre e código aberto no âmbito da Estatística e
+Ciência de Dados, fomentando a excelência técnica, a colaboração aberta
+e a produção técnica e científica reprodutível.
 
 ## Objetivos Específicos
 
 <div class="conduta">
 
 Incentivar a adoção de sistemas Linux e outros sistemas operacionais de
-código aberto como ambiente primário de desenvolvimento científico
+código aberto como ambiente primário de desenvolvimento
+técnico-científico
 
-Promover o uso de ferramentas de código aberto em análise de dados,
-engenharia de dados, modelagem estatística e aprendizado de máquina
+Promover o uso de ferramentas de *software* livre e código aberto em
+análise de dados, engenharia de dados, modelagem estatística e
+aprendizado de máquina
 
 Capacitar membros em fundamentos computacionais, incluindo sistemas
 operacionais, redes, programação e infraestrutura
@@ -91,11 +94,12 @@ de forma aberta
 Organizar eventos técnicos, *workshops*, grupos de estudo e projetos
 colaborativos
 
-Fomentar práticas de reprodutibilidade científica e versionamento de
-experimentos
+Fomentar práticas de reprodutibilidade técnico-científica e
+versionamento de experimentos
 
-Estabelecer conexões com a comunidade *open source* e científica
-nacional e internacional
+Estabelecer conexões com a comunidade de *software* livre e código
+aberto, assim como com as comunidades acadêmico-científicas nacional e
+internacional
 
 Contribuir para uma infraestrutura digital própria para o Curso de
 Estatística e Ciência de Dados da UFPR baseada em Linux e Software Livre
@@ -105,14 +109,26 @@ Estatística e Ciência de Dados da UFPR baseada em Linux e Software Livre
 # Princípios Fundamentais
 
 O grupo orienta-se pelos princípios estabelecidos em seu Manifesto, que
-define os valores centrais relacionados à ciência aberta, *software*
-livre, colaboração e rigor científico. Todos os membros comprometem-se a
-atuar em conformidade com tais princípios.
+define os valores centrais relacionados à ciência e tecnologia abertas,
+*software* livre, colaboração e rigor científico. Todos os membros
+comprometem-se a atuar em conformidade com tais princípios.
 
 Adicionalmente, o funcionamento do grupo é regido por seu Código de
 Conduta, que estabelece normas de convivência, padrões de comportamento
 e mecanismos de mediação de conflitos, assegurando um ambiente
 respeitoso, inclusivo e produtivo.
+
+Complementam o conjunto de documentos que estabelecem os Princípios
+Fundamentais do GULECD/UFPR o seu Regulamento Eleitoral, que define as
+regras e procedimentos para eleição periódica da coordenação, assim como
+a sua Política de Privacidade, que determina normas a serem seguidas em
+relação a coleta, armazenamento e uso dos dados de seus membros,
+participantes de projetos e demais pessoas que integrarem atividades do
+grupo.
+
+Compete à gestão da Coordenação Fundadora o desenvolvimento, aprovação e
+publicação de um Regimento Interno que deverá ser composto em acordo com
+os princípios contidos em seus documentos fundacionais.
 
 # Regras Estatutárias
 
@@ -140,8 +156,8 @@ universitária.
 
 São considerados membros todos os indivíduos que participam ativamente
 dos canais e atividades do grupo e que aceitam, explícita ou
-implicitamente, os termos desta Carta de Fundação, do Manifesto e do
-Código de Conduta.
+implicitamente, os termos desta Carta de Fundação e demais documentos
+fundacionais.
 
 Não haverá distinção hierárquica rígida entre os membros no que se
 refere à produção técnica, à participação em discussões e à contribuição
@@ -155,9 +171,9 @@ A Coordenação será escolhida anualmente, mediante eleição conduzida de
 acordo com regras, critérios e procedimentos previamente definidos no
 Regulamento Eleitoral do grupo, assegurando transparência, participação
 ampla e igualdade de condições entre os candidatos. Poderão
-candidatar-se membros ativos do grupo, sendo esperado histórico de
-contribuição, comprometimento com os princípios estabelecidos no
-Manifesto e adesão ao Código de Conduta.
+candidatar-se membros ativos do grupo, sendo desejado histórico de
+contribuição e obrigatoriamente comprometimento com os princípios
+estabelecidos no Manifesto e Código de Conduta.
 
 Compete à Coordenação a condução geral do grupo, incluindo planejamento
 e execução de atividades, organização de eventos, gerenciamento dos
@@ -243,24 +259,23 @@ liberdade de uso, modificação e distribuição.
 Os signatários desta Carta de Fundação são reconhecidos como membros
 fundadores do GULECD/UFPR.
 
-# Disposição Final
+# Disposições Finais
 
-A presente Carta de Fundação entra em vigor a partir de sua publicação e
-estabelece as bases institucionais, operacionais e éticas do Grupo de
+– A presente Carta de Fundação entra em vigor a partir de sua publicação
+e estabelece as bases institucionais, operacionais e éticas do Grupo de
 Usuários Linux e Software Livre do curso de Estatística e Ciência de
 Dados da UFPR, consolidando seu compromisso com a construção de uma
-comunidade técnica de excelência, orientada pela liberdade, pelo rigor
-científico e pela colaboração aberta.
+comunidade técnico-científica de excelência, orientada pela liberdade,
+pelo rigor científico e pela colaboração aberta.
 
-A presente Carta de Fundação constitui registro histórico do ato de
-criação do GULECD/UFPR, não estando sujeita a alterações após sua
-formalização.
+– Esta Carta de Fundação constitui registro histórico do ato de criação
+do GULECD/UFPR, não estando sujeita a alterações após sua formalização.
 
-Os demais documentos institucionais do grupo são considerados
-automaticamente aceitos pelos signatários desta carta.
-
-Eventuais evoluções institucionais serão registradas em documentos
+– Eventuais evoluções institucionais serão registradas em documentos
 complementares, sem alteração do presente instrumento.
+
+– Os demais documentos institucionais do grupo são considerados
+automaticamente aceitos pelos signatários desta carta.
 
 <div class="center">
 
