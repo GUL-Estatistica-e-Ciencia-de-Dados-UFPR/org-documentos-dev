@@ -1,5 +1,5 @@
 ---
-date: 2026-04-12
+date: 2026-04-13
 title: |
   Regulamento Eleitoral  
   Grupo de Usuários Linux e *Software* Livre  
@@ -39,7 +39,7 @@ title: |
   - [Validação](#validação)
   - [Transparência e Registro
     Permanente](#transparência-e-registro-permanente)
-- [Disposições Finais](#disposições-finais)
+- [Atualizações deste Documento](#atualizações-deste-documento)
 
 # Disposições Gerais
 
@@ -619,17 +619,31 @@ Poderão ser consultados livremente pelos membros
 
 </div>
 
-# Disposições Finais
+# Atualizações deste Documento
 
-Este regulamento deve ser entendido como um instrumento vivo, passível
-de aprimoramento conforme a evolução do grupo. Sua aplicação deve sempre
-priorizar os princípios fundamentais de abertura, participação,
-eficiência e responsabilidade coletiva.
+Este documento deve ser entendido como um instrumento vivo, passível de
+aprimoramento conforme a evolução do grupo, mudanças operacionais ou
+alterações legais. Sua aplicação deve sempre priorizar os princípios
+fundamentais de abertura, participação, eficiência e responsabilidade
+coletiva.
+
+Novas versões deste documento deverão ser arquivadas juntamente com as
+versões anteriores no repositório *documentos-referendados* e numeradas
+em acordo com o esquema padrão de *releases* como XX.yy, onde XX
+refere-se a edições substanciais e yy à numeração em versões de ajuste.
+
+Também deverá ser mantida ativa a versão em edição no repositório
+*documents-dev* a fim de prover o rastreamento de todas as mudanças
+entre as versões do documento,
+
+Assim, determina-se que:
 
 <div class="conduta">
 
 Este regulamento poderá ser revisado mediante discussão coletiva
 
 Situações não previstas serão resolvidas pela Coordenação vigente
+
+As atualizações serão comunicadas de forma transparente aos membros
 
 </div>

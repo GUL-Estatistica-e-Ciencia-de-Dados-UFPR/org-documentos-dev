@@ -1,5 +1,5 @@
 ---
-date: 2026-04-12
+date: 2026-04-13
 title: |
   Manifesto do Grupo de Usuários Linux e Software Livre  
   Estatística e Ciência de Dados - UFPR
