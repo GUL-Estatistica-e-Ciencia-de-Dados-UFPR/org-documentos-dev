@@ -1,5 +1,5 @@
 ---
-date: 2026-04-13
+date: 2026-04-16
 title: |
   Política de Privacidade  
   Grupo de Usuários Linux e *Software* Livre  
@@ -198,9 +198,7 @@ Anonimizados, quando aplicável
 
 Este documento deve ser entendido como um instrumento vivo, passível de
 aprimoramento conforme a evolução do grupo, mudanças operacionais ou
-alterações legais. Sua aplicação deve sempre priorizar os princípios
-fundamentais de abertura, participação, eficiência e responsabilidade
-coletiva.
+alterações legais.
 
 Novas versões deste documento deverão ser arquivadas juntamente com as
 versões anteriores no repositório *documentos-referendados* e numeradas
@@ -224,6 +222,10 @@ As atualizações serão comunicadas de forma transparente aos membros
 </div>
 
 # Disposições Finais
+
+A aplicação deste documento deve sempre priorizar os princípios
+fundamentais de abertura, participação, eficiência e responsabilidade
+coletiva.
 
 O GULECD/UFPR reafirma seu compromisso com a privacidade e proteção de
 dados, reconhecendo que a confiança dos membros e participantes é

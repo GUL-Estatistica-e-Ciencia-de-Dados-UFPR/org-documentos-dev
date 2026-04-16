@@ -1,5 +1,5 @@
 ---
-date: 2026-04-13
+date: 2026-04-16
 title: |
   Manifesto do Grupo de Usuários Linux e Software Livre  
   Estatística e Ciência de Dados - UFPR
@@ -31,8 +31,8 @@ title: |
 # Preâmbulo
 
 <span class="lettrine">E</span><span class="smallcaps">ste</span> grupo
-nasce da convergência entre a tradição científica da Estatística e da
-Ciência de Dados e a filosofia do *software* livre que sustenta o
+nasce da convergência entre a tradição técnico-científica da Estatística
+e da Ciência de Dados e a filosofia do *software* livre que sustenta o
 ecossistema Linux.
 
 Reconhecemos que a produção de conhecimento rigoroso, verificável e
@@ -45,16 +45,16 @@ deliberadamente a favor de práticas abertas, colaborativas e
 tecnicamente fundamentadas.
 
 Este manifesto estabelece os princípios que orientam nossas atividades,
-consolidando um compromisso coletivo com excelência científica,
+consolidando um compromisso coletivo com excelência técnico-científica,
 autonomia tecnológica e construção compartilhada do conhecimento.
 
 # Princípios
 
 ## I — Primazia do conhecimento aberto
 
-Defendemos que o conhecimento científico deve ser livremente acessível,
-auditável e reutilizável; promovemos práticas que favoreçam
-transparência, reprodutibilidade e disseminação irrestrita do saber.
+Defendemos que o conhecimento deve ser livremente acessível, auditável e
+reutilizável; promovemos práticas que favoreçam transparência,
+reprodutibilidade e disseminação irrestrita do saber.
 
 ## II — Software livre como fundamento científico
 
@@ -66,7 +66,7 @@ validação, inspeção e evolução contínua de ferramentas analíticas.
 
 Toda análise deve ser passível de reprodução independente; priorizamos
 ambientes versionados, código documentado e *pipelines* de análise de
-dados auditáveis como requisitos mínimos de rigor científico.
+dados auditáveis como requisitos mínimos de rigor técnico-científico.
 
 ## IV — Autonomia tecnológica
 
