@@ -1,5 +1,5 @@
 ---
-date: 2026-04-13
+date: 2026-04-24
 title: |
   Regulamento Eleitoral  
   Grupo de Usuários Linux e *Software* Livre  
@@ -225,7 +225,7 @@ Prazo máximo: 30 dias antes da data de encerramento da gestão vigente
 
 <div class="conduta">
 
-Duração: 14 dias
+Duração: 7 dias
 
 Submissão via:
 
@@ -549,8 +549,9 @@ Markdown (.md)
 
 HTML (.html)
 
-Assinados digitalmente via PGP por todos os membros da chapa visando
-reconhecimento de autenticidade e concordância
+Assinados digitalmente via PGP pelo candidato a coordenador da chapa
+visando reconhecimento de autenticidade. O candidato a coordenador fica
+responsável por garantir a concordância dos demais membros da chapa.
 
 </div>
 

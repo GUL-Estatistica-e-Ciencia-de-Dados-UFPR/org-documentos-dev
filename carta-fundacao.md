@@ -1,5 +1,5 @@
 ---
-date: 2026-04-13
+date: 2026-04-24
 title: |
   Carta de Fundação  
   Grupo de Usuários Linux e Software Livre  
@@ -98,8 +98,8 @@ Fomentar práticas de reprodutibilidade técnico-científica e
 versionamento de experimentos
 
 Estabelecer conexões com a comunidade de *software* livre e código
-aberto, assim como com as comunidades acadêmico-científicas nacional e
-internacional
+aberto e com as comunidades acadêmico-científicas nacionais e
+internacionais
 
 Contribuir para uma infraestrutura digital própria para o Curso de
 Estatística e Ciência de Dados da UFPR baseada em Linux e Software Livre
